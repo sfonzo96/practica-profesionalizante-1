@@ -37,8 +37,21 @@ turismo en las distintas localidades.
 
     -   Draw.io
     -   Google Docs
-    -           Google Drive
-    -           Github
+    -   Google Drive
+    -   Github
 
--           Diseño UI
+-   Diseño UI
+
     -   Figma
+
+### Documentos relevantes
+
+-   [Anexos](https://github.com/aleegz/pp1-2024/tree/main/Anexos_Practicas_Profesionalizantes)
+-   [Casos de uso](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/Casos_de_uso)
+-   [Diagrama de clases](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/Diagrama_de_clase)
+-   [Diagrama de dominio](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/Diagrama_de_dominio)
+-   [Diagramas de secuencia de diseño](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/Diagramas_de_secuencia_de_diseño)
+-   [Diccionario de datos y datos elementales](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/Diccionario_de_datos)
+-   [Modelo entidad-relación](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/Modelo_entidad_relacion)
+-   [Reglas de negocio](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/Reglas_de_negocio)
+-   [Requerimientos](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/Requerimientos)
