@@ -16,10 +16,6 @@ _Camino básico_
 
 _Caminos alternativos_
 
-4.a El usuario seleccionó la opción de registrarse como organizador.  
-4.a.1 El sistema muestra un formulario de registro extendido con campos específicos para la información del organizador,
-como nombre de la organización, tipo de organización, etc.  
-4.a.2 El usuario completa los campos del formulario y confirma el registro.  
 6.a El usuario ingresó datos no válidos.  
 6.a.1 El sistema señala el dato no válido en el formulario.  
 6.a.2 Vuelve al paso 5.  

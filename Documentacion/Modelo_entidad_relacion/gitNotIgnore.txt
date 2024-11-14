@@ -1,1 +1,0 @@
-Para que quede la estructura y git no evite las carpetas vacías

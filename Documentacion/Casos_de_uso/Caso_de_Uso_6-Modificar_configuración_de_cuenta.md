@@ -12,7 +12,7 @@ _Camino básico_
 4. El sistema valida la información ingresada y pide al usuario ingresar la contraseña actual para efectivizar la
    modificación.
 5. El usuario ingresa la contraseña y confirma.
-6. El sistema verifica que es la correcta, realiza la modificación y redirige al usuario a la vista de su perfil.
+6. El sistema verifica que es la correcta, realiza la modificación y envía un mail notificando del cambio.
 
 _Caminos alternativos_
 
