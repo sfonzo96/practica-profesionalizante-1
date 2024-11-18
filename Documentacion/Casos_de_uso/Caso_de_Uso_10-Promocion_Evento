@@ -1,0 +1,33 @@
+**Caso de uso:** Promoción de evento
+
+_Actor_: Usuario (actor primario)
+
+_Precondiciones_:
+
+-   El organizador debe haber iniciado sesión en la aplicación.
+-   El rol del usuario debe ser “Organizador”.
+-   El organizador debe estar suscrito a la modalidad premium.
+
+_Camino básico_
+
+1. El usuario ingresa a la vista de gestión de promociones de eventos.
+2. El sistema muestra al organizador los eventos creados por él.
+3. El usuario selecciona el evento que desea promocionar.
+4. El sistema responde con un mensaje de éxito.
+
+_Camino alternativo_
+
+4.a El usuario ya está promocionando dos eventos.
+4.a.1 El sistema indica que debe dejar de promocionar uno de los eventos ya promocionados para seleccionar otro.
+
+_Escenario de éxito_
+
+El usuario promociona su evento exitosamente.
+
+_Escenario alternativo_
+
+El usuario quita la promoción a uno de los ya promocionados y luego selecciona el nuevo evento a promocionar.
+
+_Escenario de fracaso_
+
+El usuario decide no cambiar los eventos que ya está promocionando.
