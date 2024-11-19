@@ -8,28 +8,37 @@ Sebastían R. Bruselario
 
 ### Introducción
 
-Durante la materia Práctica Profesionalizante I se propone idear y diseñar un proyecto de software, comprendiendo las
-etapas de análisis y diseño. Tomamos la decisión sobre la aplicación a desarrollar basándonos en que buscábamos un
-proyecto que pueda implementar un modelo de negocio C2C, que resulte desafiante y que responda a la necesidad de tener
-una fuente, realmente adoptada por la comunidad, de los eventos y actividades que ocurren en una ciudad en un
-determinado momento.
+Durante la materia Práctica Profesionalizante I se propone idear y diseñar un proyecto de software, comprendiendo las etapas de análisis y diseño. Tomamos la decisión sobre la aplicación a desarrollar basándonos en la búsqueda de un proyecto que pueda implementar un modelo de negocio C2C, en este caso orientado a eventos y otros tipos de actividades (culturales, deportivas, educativos, culinarias, etc.).
 
 ### Título y objetivo del proyecto
 
-El título del proyecto es "Planazo". Durante el mismo, se busca abarcar el desarrollo de una aplicación web en todas sus
-etapas, iniciando por el análisis y el diseño. El objetivo principal del proyecto es presentar, de manera sencilla, una
-cartelera de eventos de todo tipo disponibles a habitantes de una ciudad o turistas.
+El título del proyecto es "Planazo". Durante el mismo, se busca abarcar el desarrollo de una aplicación web en todas sus etapas, iniciando por el análisis y el diseño. El objetivo principal del proyecto es presentar, de manera sencilla, una cartelera de eventos de todo tipo disponibles a habitantes de una ciudad o turistas.
 
 ### Orientación específica del proyecto
 
 El desarrollo de este proyecto se centra en las etapas de análisis y documentación.
 
+### Problema planteado
+
+-   Dificultades para conocer todas las propuestas disponibles en una ciudad.
+-   Información dispersa entre varios medios; redes sociales, sitios web y otras aplicaciones.
+-   Eventos con poca concurrencia debido al desconocimiento de los mismos.
+
+### Solución al problema
+
+-   Plataforma que centraliza toda la oferta de eventos y distintos tipos de actividades.
+-   Información completa de todas las actividades y propuestas.
+-   Nexo entre público y organizadores para que los segundos puedan promocionar sus eventos y propuestas para llegar a un público más amplio.
+
 ### Vinculación e impacto
 
-Nuestro proyecto busca desarrollar una aplicación que permita, a turistas y ciudadanos, visualizar de manera
-centralizada la oferta de actividades. Al reunir todas las variedades de ofertas recreativas, facilitamos el acceso a
-las mismas de manera actualizada y personalizada, impulsando la participación de la comunidad y en la promoción del
-turismo en las distintas localidades.
+Considerando el problema y la solución que proponemos, nuestro proyecto busca desarrollar una aplicación que permita a turistas y ciudadanos visualizar de manera centralizada la oferta de actividades. Esto facilita el acceso a propuestas recreativas de manera actualizada y personalizada, promoviendo un uso más eficiente del tiempo libre.
+
+De esta manera, logramos:
+
+-   Incrementar la participación de la comunidad al facilitar el descubrimiento de nuevas experiencias.
+-   Ofrecer a los organizadores un espacio de promoción eficiente para darse a conocer.
+-   Potenciar el turismo en las distintas localidades, promoviendo su crecimiento económico y cultural
 
 ### Recursos empleados
 
@@ -44,6 +53,10 @@ turismo en las distintas localidades.
 
     -   Figma
 
+-   Gestión del avance del proyecto
+
+    -   Trello
+
 ### Documentos relevantes
 
 -   [Anexos](https://github.com/aleegz/pp1-2024/tree/main/Anexos_Practicas_Profesionalizantes)
@@ -51,7 +64,7 @@ turismo en las distintas localidades.
 -   [Diagrama de clases](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/Diagrama_de_clase)
 -   [Diagramas de secuencia](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/Diagramas_de_secuencia)
 -   [Diccionario de datos y datos elementales](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/Diccionario_de_datos_y_elementales)
--   [Modelo entidad-relación](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/Modelo_entidad_relacion)
+-   [Modelo entidad-relación](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/Diagrama_entidad_relacion)
 -   [Reglas de negocio](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/Reglas_de_negocio)
 -   [Requerimientos](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/Requerimientos)
 -   [Diseño UI](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/UI)

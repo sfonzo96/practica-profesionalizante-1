@@ -1,0 +1,39 @@
+**Caso de uso**: Suscripción de usuario
+
+_Actor primario_: Usuario
+_Actor secundario_: API de Mercado Pago (MP)
+
+_Precondiciones_:
+
+-   El usuario debe haber iniciado sesión en la aplicación.
+
+_Camino básico_:
+
+1. El usuario accede a la sección de suscripciones en la aplicación.
+2. El usuario confirma su intención de suscribirse.
+3. El sistema redirige al usuario al formulario de pago proporcionado por la API de Mercado Pago.
+4. El usuario introduce los datos necesarios y confirma el pago.
+5. La API de Mercado Pago responde con la confirmación del pago exitoso.
+6. El sistema activa la suscripción del usuario y muestra un mensaje de éxito.
+
+_Camino alternativo_:
+
+4.a El usuario cancela el proceso de pago en la interfaz de Mercado Pago.
+4.a.1 El sistema registra que el usuario no completó el pago y lo redirige de nuevo a la sección de suscripciones.
+4.a.2 Vuelve a 2.
+
+5.a La API de Mercado Pago responde con un error en el pago (por fondos insuficientes, tarjeta inválida, etc.).
+5.a.1 El sistema informa al usuario sobre el problema y le permite reintentar o seleccionar otro método de pago.
+5.a.2 Vuelve a 4.
+
+_Escenario de éxito_:
+
+El usuario realiza el pago exitosamente y accede a los beneficios de su suscripción.
+
+_Escenario alternativo_:
+
+El usuario reintenta el pago con éxito o decide cancelar el proceso.
+
+_Escenario de fracaso_:
+
+El usuario abandona el proceso sin completar el pago.

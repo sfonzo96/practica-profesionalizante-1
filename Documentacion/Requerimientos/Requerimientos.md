@@ -17,7 +17,7 @@
 
 ### Requerimientos funcionales futuros / posibles
 
--   El sistema debe facilitar el contacto entre el usuario común y el anunciante (interno, mail, whatsapp, etc.)
+-   El sistema debe facilitar el contacto entre el usuario normal y el organizador.
 -   El sistema debe poder notificar al usuario con un recordatorio del evento al cual suscribió.
 -   El sistema debe permitir la búsqueda de eventos privados mediante un código.
 -   El sistema debe registrar un historial de eventos a los cuales el usuario asistió.

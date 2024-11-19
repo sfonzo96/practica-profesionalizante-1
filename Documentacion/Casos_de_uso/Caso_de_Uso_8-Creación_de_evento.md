@@ -1,4 +1,4 @@
-**Caso de uso:** Modificación de eventos
+**Caso de uso:** Creación de eventos
 
 _Actor_: Usuario (actor primario)
 
