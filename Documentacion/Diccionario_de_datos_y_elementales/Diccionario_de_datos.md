@@ -4,7 +4,7 @@ usuario \= @nombreUsuario \+ contraseña \+ @teléfono \+ @email \+ nombre \+ ap
 \+ foto + esCorreoVerificado
 
 evento \= título \+ descripción \+ foto \+ capacidadMaxima \+ fecha \+ horaInicio \+ horaFinal \+
-esGratuito \+ esPeriodico \+ 0 { interés } 3 \+ ciudad \+ direcciónEvento \+ clicksPorHora \+ foto
+esGratuito \+ esPeriodico \+ esPromocionado \+ 0 { interés } 3 \+ ciudad \+ direcciónEvento \+ clicksPorHora \+ foto
 
 ciudad \= nombreCiudad \+ @codigoPostal \+ provincia
 
