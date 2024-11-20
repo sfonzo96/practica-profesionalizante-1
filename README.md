@@ -1,7 +1,7 @@
 # Repositorio de entregables de proyecto de Práctica Profesionalizante I
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aleegz/pp1-2024/refs/heads/main/Documentacion/UI/logo.png" alt="Logo Planazo" width="100%" height="auto">
+  <img src="https://raw.githubusercontent.com/aleegz/pp1-2024/refs/heads/main/Documentacion/UI/logo.png?token=GHSAT0AAAAAACZQS2CO6EAQWQTZB25P3VGEZZ5KOKA" alt="Logo Planazo" width="50%" height="auto">
 </div>
 
 ## Descripción del proyecto
@@ -77,22 +77,17 @@ De esta manera, logramos:
 ### Colaboradores
 
 <h3 style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github.com/sfonzo96.png?size=50" alt="Foto de perfil de Santiago Fonzo" style="border-radius: 50%; width: 50px; height: 50px;">
-  <a href="https://github.com/sfonzo96">Santiago Fonzo</a>
+  <a href="https://github.com/sfonzo96" style="display: flex; align-items: center"><img src="https://github.com/sfonzo96.png?size=50" alt="Foto de perfil de Santiago Fonzo" style="border-radius: 50%; width: 50px; height: 50px; margin-right: .5em">Santiago Fonzo</a>
 </h3>
 
 <h3 style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github.com/aleegz.png?size=50" alt="Foto de perfil de Alejandro Gómez" style="border-radius: 50%; width: 50px; height: 50px;">
-  <a href="https://github.com/aleegz">Alejandro Gómez</a>
+  <a href="https://github.com/aleegz" style="display: flex; align-items: center"><img src="https://github.com/aleegz.png?size=50" alt="Foto de perfil de Alejandro Gómez" style="border-radius: 50%; width: 50px; height: 50px; margin-right: .5em">Alejandro Gómez</a>
 </h3>
 
 <h3 style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github.com/sebalardelli.png?size=50" alt="Foto de perfil de Sebastián Lardelli" style="border-radius: 50%; width: 50px; height: 50px;">
-  <a href="https://github.com/sebalardelli">Sebastián Lardelli</a>
+  <a href="https://github.com/sebalardelli" style="display: flex; align-items: center"><img src="https://github.com/sebalardelli.png?size=50" alt="Foto de perfil de Sebastián Lardelli" style="border-radius: 50%; width: 50px; height: 50px; margin-right: .5em">Sebastián Lardelli</a>
 </h3>
 
 <h3 style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github.com/jimenezmatias.png?size=50" alt="Foto de perfil de Matías Jiménez" style="border-radius: 50%; width: 50px; height: 50px;">
-  <a href="https://github.com/jimenezmatias">Matías Jiménez</a>
+  <a href="https://github.com/jimenezmatias" style="display: flex; align-items: center"><img src="https://github.com/jimenezmatias.png?size=50" alt="Foto de perfil de Matías Jiménez" style="border-radius: 50%; width: 50px; height: 50px; margin-right: .5em">Matías Jiménez</a>
 </h3>
-
