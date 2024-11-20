@@ -76,18 +76,32 @@ De esta manera, logramos:
 
 ### Colaboradores
 
-<h3 style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/sfonzo96" style="display: flex; align-items: center"><img src="https://github.com/sfonzo96.png?size=50" alt="Foto de perfil de Santiago Fonzo" style="border-radius: 50%; width: 50px; height: 50px; margin-right: .5em">Santiago Fonzo</a>
-</h3>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div style="text-align: center;">
+    <a href="https://github.com/sfonzo96">
+      <img src="https://github.com/sfonzo96.png?size=100" alt="Foto de Santiago Fonzo" style="border-radius: 50%; width: 100px; height: 100px; margin-bottom: 10px;">
+      <p>Santiago Fonzo</p>
+    </a>
+  </div>
 
-<h3 style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/aleegz" style="display: flex; align-items: center"><img src="https://github.com/aleegz.png?size=50" alt="Foto de perfil de Alejandro Gómez" style="border-radius: 50%; width: 50px; height: 50px; margin-right: .5em">Alejandro Gómez</a>
-</h3>
+  <div style="text-align: center;">
+    <a href="https://github.com/aleegz">
+      <img src="https://github.com/aleegz.png?size=100" alt="Foto de Alejandro Gómez" style="border-radius: 50%; width: 100px; height: 100px; margin-bottom: 10px;">
+      <p>Alejandro Gómez</p>
+    </a>
+  </div>
 
-<h3 style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/sebalardelli" style="display: flex; align-items: center"><img src="https://github.com/sebalardelli.png?size=50" alt="Foto de perfil de Sebastián Lardelli" style="border-radius: 50%; width: 50px; height: 50px; margin-right: .5em">Sebastián Lardelli</a>
-</h3>
+  <div style="text-align: center;">
+    <a href="https://github.com/sebalardelli">
+      <img src="https://github.com/sebalardelli.png?size=100" alt="Foto de Sebastián Lardelli" style="border-radius: 50%; width: 100px; height: 100px; margin-bottom: 10px;">
+      <p>Sebastián Lardelli</p>
+    </a>
+  </div>
 
-<h3 style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/jimenezmatias" style="display: flex; align-items: center"><img src="https://github.com/jimenezmatias.png?size=50" alt="Foto de perfil de Matías Jiménez" style="border-radius: 50%; width: 50px; height: 50px; margin-right: .5em">Matías Jiménez</a>
-</h3>
+  <div style="text-align: center;">
+    <a href="https://github.com/jimenezmatias">
+      <img src="https://github.com/jimenezmatias.png?size=100" alt="Foto de Matías Jiménez" style="border-radius: 50%; width: 100px; height: 100px; margin-bottom: 10px;">
+      <p>Matías Jiménez</p>
+    </a>
+  </div>
+</div>
