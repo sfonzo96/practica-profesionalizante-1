@@ -1,7 +1,7 @@
 # Repositorio de entregables de proyecto de Práctica Profesionalizante I
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aleegz/pp1-2024/refs/heads/main/Documentacion/UI/logo.png?token=GHSAT0AAAAAACZQS2CO6EAQWQTZB25P3VGEZZ5KOKA" alt="Logo Planazo" width="50%" height="auto">
+  <img src="/Documentacion/UI/logo.png" alt="Logo Planazo" width="50%" height="auto">
 </div>
 
 ## Descripción del proyecto
@@ -12,11 +12,16 @@ Sebastían R. Bruselario
 
 ### Introducción
 
-Durante la materia Práctica Profesionalizante I se propone idear y diseñar un proyecto de software, comprendiendo las etapas de análisis y diseño. Tomamos la decisión sobre la aplicación a desarrollar basándonos en la búsqueda de un proyecto que pueda implementar un modelo de negocio C2C, en este caso orientado a eventos y otros tipos de actividades (culturales, deportivas, educativos, culinarias, etc.).
+Durante la materia Práctica Profesionalizante I se propone idear y diseñar un proyecto de software, comprendiendo las
+etapas de análisis y diseño. Tomamos la decisión sobre la aplicación a desarrollar basándonos en la búsqueda de un
+proyecto que pueda implementar un modelo de negocio C2C, en este caso orientado a eventos y otros tipos de actividades
+(culturales, deportivas, educativos, culinarias, etc.).
 
 ### Título y objetivo del proyecto
 
-El título del proyecto es "Planazo". Durante el mismo, se busca abarcar el desarrollo de una aplicación web en todas sus etapas, iniciando por el análisis y el diseño. El objetivo principal del proyecto es presentar, de manera sencilla, una cartelera de eventos de todo tipo disponibles a habitantes de una ciudad o turistas.
+El título del proyecto es "Planazo". Durante el mismo, se busca abarcar el desarrollo de una aplicación web en todas sus
+etapas, iniciando por el análisis y el diseño. El objetivo principal del proyecto es presentar, de manera sencilla, una
+cartelera de eventos de todo tipo disponibles a habitantes de una ciudad o turistas.
 
 ### Orientación específica del proyecto
 
@@ -32,11 +37,14 @@ El desarrollo de este proyecto se centra en las etapas de análisis y documentac
 
 -   Plataforma que centraliza toda la oferta de eventos y distintos tipos de actividades.
 -   Información completa de todas las actividades y propuestas.
--   Nexo entre público y organizadores para que los segundos puedan promocionar sus eventos y propuestas para llegar a un público más amplio.
+-   Nexo entre público y organizadores para que los segundos puedan promocionar sus eventos y propuestas para llegar a
+    un público más amplio.
 
 ### Vinculación e impacto
 
-Considerando el problema y la solución que proponemos, nuestro proyecto busca desarrollar una aplicación que permita a turistas y ciudadanos visualizar de manera centralizada la oferta de actividades. Esto facilita el acceso a propuestas recreativas de manera actualizada y personalizada, promoviendo un uso más eficiente del tiempo libre.
+Considerando el problema y la solución que proponemos, nuestro proyecto busca desarrollar una aplicación que permita a
+turistas y ciudadanos visualizar de manera centralizada la oferta de actividades. Esto facilita el acceso a propuestas
+recreativas de manera actualizada y personalizada, promoviendo un uso más eficiente del tiempo libre.
 
 De esta manera, logramos:
 
