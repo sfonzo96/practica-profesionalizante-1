@@ -71,15 +71,15 @@ De esta manera, logramos:
 
 ### Documentos relevantes
 
--   [Anexos](https://github.com/aleegz/pp1-2024/tree/main/Anexos_Practicas_Profesionalizantes)
--   [Casos de uso](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/Casos_de_uso)
--   [Diagrama de clases](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/Diagrama_de_clase)
--   [Diagramas de secuencia](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/Diagramas_de_secuencia)
--   [Diccionario de datos y datos elementales](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/Diccionario_de_datos_y_elementales)
--   [Modelo entidad-relación](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/Diagrama_entidad_relacion)
--   [Reglas de negocio](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/Reglas_de_negocio)
--   [Requerimientos](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/Requerimientos)
--   [Diseño UI](https://github.com/aleegz/pp1-2024/tree/main/Documentacion/UI)
+-   [Anexos](https://github.com/sfonzo96/practica-profesionalizante-1/tree/main/Anexos_Practicas_Profesionalizantes)
+-   [Casos de uso](https://github.com/sfonzo96/practica-profesionalizante-1/tree/main/Documentacion/Casos_de_uso)
+-   [Diagrama de clases](https://github.com/sfonzo96/practica-profesionalizante-1/tree/main/Documentacion/Diagrama_de_clase)
+-   [Diagramas de secuencia](https://github.com/sfonzo96/practica-profesionalizante-1/tree/main/Documentacion/Diagramas_de_secuencia)
+-   [Diccionario de datos y datos elementales](https://github.com/sfonzo96/practica-profesionalizante-1/tree/main/Documentacion/Diccionario_de_datos_y_elementales)
+-   [Modelo entidad-relación](https://github.com/sfonzo96/practica-profesionalizante-1/tree/main/Documentacion/Diagrama_entidad_relacion)
+-   [Reglas de negocio](https://github.com/sfonzo96/practica-profesionalizante-1/tree/main/Documentacion/Reglas_de_negocio)
+-   [Requerimientos](https://github.com/sfonzo96/practica-profesionalizante-1/tree/main/Documentacion/Requerimientos)
+-   [Diseño UI](https://github.com/sfonzo96/practica-profesionalizante-1/tree/main/Documentacion/UI)
 -   [Prototipo](https://www.figma.com/proto/NwOegWakjWxb9O50HXrfva/Mobile_design?node-id=1-3&node-type=canvas&t=KWdOd0XvtY9V8Zg7-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3&share=1)
 
 ### Colaboradores
